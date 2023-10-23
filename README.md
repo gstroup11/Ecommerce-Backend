@@ -29,10 +29,7 @@
 * From here make sure you have an API software, I use Insomnia, you can find their documentation with a google search.
 * Below you will find a video showing these steps, and how to hit the endpoints in Insomnia.
 
-  ![Initialization Video and Endpoints](./assets/employeedb.gif)
-
-
-  Video Link:
+  Video Link:  https://drive.google.com/file/d/1vyDg9QOHgkYl-WdQVV6dSzGmOOXFEwcL/view
 
  ## License
 
